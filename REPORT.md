@@ -2,7 +2,7 @@
 
 - **Name**: Felipe Gómez
 - **Student ID**: 19369
-- **Email**: fgomezg.ieu2022@student.ie.edu
+- **Email**: fgomez.ieu2022@student.ie.edu
 - **Group**: BBADBA 5B
 
 ## Dataset
